@@ -1,3 +1,12 @@
+# ==============================================================================
+# PROJECT GENESIS: ROBLOX MARKET ANALYST BOT
+# ==============================================================================
+# 📝 Technical Documentation (English): ./roblox_analyst_bot.md
+# 📝 Technical Documentation (Korean) : ./roblox_analyst_bot.ko.md
+# ==============================================================================
+
+
+
 import os
 import time
 import requests

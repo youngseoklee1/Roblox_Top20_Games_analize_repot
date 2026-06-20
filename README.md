@@ -1,7 +1,7 @@
 # Roblox_Top20_Games_analize_repot
 This is the first step of my success story.
 
-
+`
 
 # Project Genesis: AI-Powered Roblox Startup
 
@@ -36,3 +36,10 @@ To pass the Roblox recommendation algorithm and scale to the top charts, every e
 ## 📊 Phase 1: Top 20 Experiences Reverse-Engineering List
 *The detailed architectural breakdown of top-charting games will be documented chronologically below:*
 1. *Pending Selection...*
+
+
+---
+
+## 🛠️ Automated Analytics Engine
+* **Source Code**: [`roblox_analyst_bot.py`](./roblox_analyst_bot.py)
+* **Technical Documentation**: [English Documentation](./roblox_analyst_bot.md) | [한국어 명세서](./roblox_analyst_bot.ko.md)

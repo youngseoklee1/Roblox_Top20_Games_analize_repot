@@ -31,3 +31,9 @@
 ## 📊 Phase 1: 상위 20개 게임 역설계 분석 리스트
 *상위권 흥행작들의 시스템 아키텍처 및 BM 역설계 분석 보고서가 차례대로 적재될 예정입니다:*
 1. *타겟 게임 선정 대기 중...*
+
+---
+
+## 🛠️ 데이터 분석 자동화 엔진
+* **소스 코드 원본**: [`roblox_analyst_bot.py`](./roblox_analyst_bot.py)
+* **기술 설명 문서**: [영어 기술 명세서](./roblox_analyst_bot.md) | [한국어 기술 명세서](./roblox_analyst_bot.ko.md)
